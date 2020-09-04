@@ -1,0 +1,14 @@
+﻿Build started 5/8/2018 11:56:03 AM.
+     1>Project "D:\DS\project DS\food ordering system\food ordering system\food ordering system.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "food order.cpp"
+         food order.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DS\project DS\food ordering system\Debug\food ordering system.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\DS\project DS\food ordering system\Debug\food ordering system.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DS\project DS\food ordering system\Debug\food ordering system.lib" /MACHINE:X86 "Debug\food order.obj"
+         "Debug\online food ordering.obj"
+         food ordering system.vcxproj -> D:\DS\project DS\food ordering system\Debug\food ordering system.exe
+     1>Done Building Project "D:\DS\project DS\food ordering system\food ordering system\food ordering system.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.69

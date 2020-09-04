@@ -1,0 +1,10 @@
+burger 40
+fries 10
+chip 10
+hotdogs 20
+flag 23
+ba 244
+das 223
+asd 21
+qwe 100
+asd 203
